@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.app.java_forex_algorithms.AppTest" time="0.027" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\RepositoriosGit\TrandingAlgoritmosJava2022\java-forex-algorithms\target\test-classes;C:\RepositoriosGit\TrandingAlgoritmosJava2022\java-forex-algorithms\target\classes;C:\Users\jperez\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\jperez\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\jperez\.m2\repository\io\socket\socket.io-client\1.0.0\socket.io-client-1.0.0.jar;C:\Users\jperez\.m2\repository\org\json\json\20090211\json-20090211.jar;C:\Users\jperez\.m2\repository\io\socket\engine.io-client\1.0.0\engine.io-client-1.0.0.jar;C:\Users\jperez\.m2\repository\com\squareup\okhttp3\okhttp\3.8.1\okhttp-3.8.1.jar;C:\Users\jperez\.m2\repository\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar;C:\Users\jperez\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="America/Toronto"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.boot.library.path" value="C:\Applications\sts-4.14.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\jperez\AppData\Local\Temp\surefire12999824476563701779\surefirebooter11239758418592258847.jar C:\Users\jperez\AppData\Local\Temp\surefire12999824476563701779 2022-06-23T23-48-56_735-jvmRun1 surefire4204532899463397424tmp surefire_03656135139091418851tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\RepositoriosGit\TrandingAlgoritmosJava2022\java-forex-algorithms\target\test-classes;C:\RepositoriosGit\TrandingAlgoritmosJava2022\java-forex-algorithms\target\classes;C:\Users\jperez\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\jperez\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\jperez\.m2\repository\io\socket\socket.io-client\1.0.0\socket.io-client-1.0.0.jar;C:\Users\jperez\.m2\repository\org\json\json\20090211\json-20090211.jar;C:\Users\jperez\.m2\repository\io\socket\engine.io-client\1.0.0\engine.io-client-1.0.0.jar;C:\Users\jperez\.m2\repository\com\squareup\okhttp3\okhttp\3.8.1\okhttp-3.8.1.jar;C:\Users\jperez\.m2\repository\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar;C:\Users\jperez\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\jperez"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.home" value="C:\Applications\sts-4.14.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="C:\RepositoriosGit\TrandingAlgoritmosJava2022\java-forex-algorithms"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\jperez\AppData\Local\Temp\surefire12999824476563701779\surefirebooter11239758418592258847.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.2+8"/>
+    <property name="user.name" value="jperez"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.2+8"/>
+    <property name="localRepository" value="C:\Users\jperez\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\jperez\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.2"/>
+    <property name="user.dir" value="C:\RepositoriosGit\TrandingAlgoritmosJava2022\java-forex-algorithms"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Applications\sts-4.14.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Applications/sts-4.14.1.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Applications/sts-4.14.1.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Python310\Scripts\;C:\Python310\;C:\Program Files\Eclipse Adoptium\jdk-11.0.15.10-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Acronis\PyShell\bin\;C:\Program Files (x86)\Common Files\Acronis\FileProtector\;C:\Program Files (x86)\Common Files\Acronis\FileProtector64\;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Groovy\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\jperez\AppData\Local\Microsoft\WindowsApps;C:\Users\jperez\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jperez\AppData\Roaming\npm;C:\Users\jperez\AppData\Local\GitHubDesktop\bin;C:\Users\jperez\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Applications\sts-4.14.1.RELEASE;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.2+8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.app.java_forex_algorithms.AppTest" time="0.001"/>
+</testsuite>
